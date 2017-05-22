@@ -50,9 +50,6 @@
                 <profile-dir>ci</profile-dir>
                 <test-profile-dir>ci</test-profile-dir>
             </properties>
-            <modules>
-                <module>../example-cli-app</module>
-            </modules>
             <build>
                 <finalName>${project.artifactId}-${project.version}</finalName>
             </build>
