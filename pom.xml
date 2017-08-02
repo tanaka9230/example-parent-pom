@@ -39,6 +39,7 @@
             </properties>
             <modules>
                 <module>../example-cli-app</module>
+                <module>../example-web-app</module>
             </modules>
             <build>
                 <finalName>${project.artifactId}</finalName>
